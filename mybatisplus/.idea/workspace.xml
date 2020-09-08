@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cf54c9d-56ee-4977-a236-2a19f95b8393" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\GONGJU\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\GONGJU\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fM4EsXK0LySbCQI8QrjXVQbZQu" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatisplus-auto" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="JUnit.WrapperTest.contextLoads">
+    <configuration name="MybatisplusApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ev" />
+      <option name="MAIN_CLASS_NAME" value="com.ev.MybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisplusApplicationTests.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ev" />
+      <option name="MAIN_CLASS_NAME" value="com.ev.MybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisplusApplicationTests.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ev" />
+      <option name="MAIN_CLASS_NAME" value="com.ev.MybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisplusApplicationTests.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ev" />
+      <option name="MAIN_CLASS_NAME" value="com.ev.MybatisplusApplicationTests" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatisplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ev" />
+      <option name="MAIN_CLASS_NAME" value="com.ev.WrapperTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ev.MybatisplusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WrapperTest.contextLoads" />
+        <item itemvalue="JUnit.MybatisplusApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.MybatisplusApplicationTests.testInsert" />
+        <item itemvalue="JUnit.MybatisplusApplicationTests.testDelete" />
+        <item itemvalue="JUnit.MybatisplusApplicationTests.testPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\13014\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf54c9d-56ee-4977-a236-2a19f95b8393" name="默认更改列表" comment="" />
+      <created>1596014518848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596014518848</updated>
+      <workItem from="1596014524233" duration="17191000" />
+      <workItem from="1596189869871" duration="5374000" />
+      <workItem from="1596266730186" duration="6604000" />
+      <workItem from="1596645945188" duration="42000" />
+      <workItem from="1596721918916" duration="668000" />
+      <workItem from="1596726257981" duration="1563000" />
+      <workItem from="1596728081716" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2281" y="71" key="#Notifications" timestamp="1596728129214">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2281" y="71" key="#Notifications/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1596728129214" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1596029052869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596029052869" />
+    <state x="2469" y="167" key="FileChooserDialogImpl" timestamp="1596726425106">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596029699871" />
+    <state x="2469" y="167" key="FileChooserDialogImpl/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1596726425106" />
+    <state width="1493" height="424" key="GridCell.Tab.0.bottom" timestamp="1596728175876">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="424" key="GridCell.Tab.0.bottom/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596209523524" />
+    <state width="1493" height="424" key="GridCell.Tab.0.bottom/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1596728175876" />
+    <state width="1493" height="424" key="GridCell.Tab.0.center" timestamp="1596728175875">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="424" key="GridCell.Tab.0.center/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596209523524" />
+    <state width="1493" height="424" key="GridCell.Tab.0.center/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1596728175875" />
+    <state width="1493" height="424" key="GridCell.Tab.0.left" timestamp="1596728175875">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="424" key="GridCell.Tab.0.left/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596209523523" />
+    <state width="1493" height="424" key="GridCell.Tab.0.left/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1596728175875" />
+    <state width="1493" height="424" key="GridCell.Tab.0.right" timestamp="1596728175876">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="424" key="GridCell.Tab.0.right/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596209523524" />
+    <state width="1493" height="424" key="GridCell.Tab.0.right/1920.0.1536.824/0.0.1536.824@1920.0.1536.824" timestamp="1596728175876" />
+    <state width="1493" height="239" key="GridCell.Tab.1.bottom" timestamp="1596043517506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.bottom/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596043517506" />
+    <state width="1493" height="239" key="GridCell.Tab.1.center" timestamp="1596043517506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.center/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596043517506" />
+    <state width="1493" height="239" key="GridCell.Tab.1.left" timestamp="1596043517506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.left/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596043517506" />
+    <state width="1493" height="239" key="GridCell.Tab.1.right" timestamp="1596043517506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.1.right/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596043517506" />
+    <state x="114" y="77" width="1352" height="699" key="new project wizard" timestamp="1596293878882">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="114" y="77" width="1352" height="699" key="new project wizard/1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1596293878882" />
+  </component>
+</project>
